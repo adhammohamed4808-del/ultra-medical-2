@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Generic male doctor">
+  <rect width="400" height="500" fill="#f5f7fa"/>
+  <circle cx="200" cy="150" r="76" fill="#d9dde5"/>
+  <path d="M70 470c5-132 53-205 130-205s125 73 130 205" fill="#fff" stroke="#d9dde5" stroke-width="8"/>
+  <path d="M150 275l50 76 50-76" fill="#e30613" opacity=".88"/>
+  <path d="M112 310l55 40 33 120H85zM288 310l-55 40-33 120h115z" fill="#fff" stroke="#d9dde5" stroke-width="6"/>
+  <circle cx="200" cy="405" r="34" fill="none" stroke="#e30613" stroke-width="8"/>
+  <path d="M158 340c0 38 4 65 42 65s42-27 42-65" fill="none" stroke="#e30613" stroke-width="8"/>
+</svg>
